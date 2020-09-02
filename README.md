@@ -14,7 +14,7 @@ Este trabalho será divido em serviço, utilizando o conceito de sistema distrib
 
 | Nome | Link |
 |------|------|
-| SistemaMidiaSocial.Core | Indefinido | 
+| SistemaMidiaSocial.Core | [Core](https://github.com/ongmidiasocial/sistemamidiasocial.core) | 
 | SistemaMidiaSocial.Chat | Indefinido |
 | SistemaMidiaSocial.Feed | Indefinido |
 ## Membros
